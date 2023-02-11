@@ -5,10 +5,14 @@ public class ForLoop {
         for (int i = 0; i < 100; i = i + 2) {
             System.out.println(i);
         }*/
-        for (int i = 0; i < 100; i++) {
+       /* *//*for (int i = 0; i < 100; i++) {
             if (i % 5 == 0) {
-                System.out.println(i);
+                System.out.println(i);*//*
+
             }
+        }*/
+        for (int sth = 0; sth <300; sth ++) {
+            System.out.println("Będę robil prace domowe");
         }
     }
 }
