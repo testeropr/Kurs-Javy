@@ -2,6 +2,8 @@
 // przejdz przez studentow w tablicy i wywolaj wszystkie 4 metody.
 
 
+import java.util.Scanner;
+
 public class PracaDomowaStudent {
 
     public static void main(String[] args) {
@@ -39,6 +41,9 @@ public class PracaDomowaStudent {
             students[i].ZalogujSię();
 
         }
+        String imię= "Kasia";
+        Scanner scanner = new Scanner(System.in);
+        imię.strip();
 
 
 
