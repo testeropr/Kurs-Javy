@@ -8,7 +8,7 @@ public class Person {
         this.age=age;
     }
 
-    public void eat () {
+    public  void eat () {
         System.out.println("I like pizza!");
     }
 
